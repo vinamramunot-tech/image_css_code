@@ -1,3 +1,5 @@
 # mac distribution package
 .dist
 .dist/
+
+debug.log

@@ -7,44 +7,141 @@
     margin-top: 300px;
 }
 
-.box{
+.Javascript{
     position: absolute;
-    bottom: 250px;
-    height: 30px;
-    left: 300px;
-    width: 30px;
+    top: 150px;
+    height: 180px;
+    width: 180px;
+    left: 400px;
+    
     border: 40px;
     padding: 40px;
     margin: 40px;
     border-radius: 80%;
     background-color: #8484F5;
     color:white;
-    font-size: 300%;
-    text-align: center;
-    font-family: Courier;
-    font-weight: 500;
-    border-color: blue;
-    box-shadow: 5px 1px #7676F7;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 100px;
+    font-size: 105px;
+    text-shadow: 2px 2px 2px white;
+    box-shadow: 12px 0px 1px #7676F7;
+    box-shadow: inset;
+    border-color:transparent;
 }
 .background{
     background-color: #BFBFEE;
 }
-.box2{
+.cplusplus{
     position: absolute;
     top:10px;
     right:600px;
-    width:50px;
-    border:30px;
-    padding:20px;
+    width:200px;
+    height: 120px;
+    border:5px;
+    padding:5px;
     margin:20px;
     border-radius: 25px;
-    background-color: darkblue;
-    color:orange;
+    background-color: white;
+    color:#8484F5;
     font-size:250%;
-    text-align: left;
-    font-family:'Segoe UI';
-    font-weight:500;
-    box-shadow: 10px -10px 5px green;
-    border-style:outset;
-    border-color: darkblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 2px #8484F5;
+    font-size: 85px;
+    box-shadow: 10px 0px 5px lightgrey;
+    box-shadow: inset;
+    border-color:transparent;
+}
+
+.css{
+    position: absolute;
+    top: 150px;
+    height: 143px;
+    width: 145px;
+    left: 1000px;
+    
+    border: 40px;
+    padding: 40px;
+    margin: 40px;
+    border-radius: 80%;
+    background-color: #8484F5;
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 70px;
+    font-size: 40px;
+    text-shadow: 2px 0px 2px white;
+    box-shadow: 12px 0px 1px #7676F7;
+    box-shadow: inset;
+    border-color:transparent;
+}
+
+.python{
+    position: absolute;
+    top: 150px;
+    height: 143px;
+    width: 145px;
+    left: 650px;
+    
+    border: 40px;
+    padding: 40px;
+    margin: 40px;
+    border-radius: 80%;
+    background-color: #EFD376;
+    color:#3E3B90;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 70px;
+    font-size: 40px;
+    text-shadow: 2px 0px 2px #3E3B90;
+    box-shadow: 12px 0px 1px #FCC100;
+    box-shadow: inset;
+    border-color:transparent;
+}
+
+.csharp{
+    position: absolute;
+    top: 150px;
+    height: 143px;
+    width: 145px;
+    left: 1000px;
+    
+    border: 40px;
+    padding: 40px;
+    margin: 40px;
+    border-radius: 80%;
+    background-color: #8484F5;
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 70px;
+    font-size: 40px;
+    text-shadow: 2px 0px 2px white;
+    box-shadow: 12px 0px 1px #7676F7;
+    box-shadow: inset;
+    border-color:transparent;
+}
+
+.code{
+    position: absolute;
+    top: 150px;
+    height: 143px;
+    width: 145px;
+    left: 1000px;
+    
+    border: 40px;
+    padding: 40px;
+    margin: 40px;
+    border-radius: 80%;
+    background-color: #8484F5;
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 70px;
+    font-size: 40px;
+    text-shadow: 2px 0px 2px white;
+    box-shadow: 12px 0px 1px #7676F7;
+    box-shadow: inset;
+    border-color:transparent;
 }
